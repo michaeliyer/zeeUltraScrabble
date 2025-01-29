@@ -1,0 +1,24 @@
+.letter-list a {
+    text-decoration: underline;
+    color: blue;
+    margin-right: 10px;
+    cursor: pointer;
+    }
+    
+    .highlight {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-weight: bold;
+    }
+    
+    body {
+    background-color: rgb(205, 221, 24);
+    }
+    
+    #letterFrequencyOutput {
+        color: red;
+    }
+    
+    #letterSearchResults {
+        color: rgb(11, 26, 228);
+    }
