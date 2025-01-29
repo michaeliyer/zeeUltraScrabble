@@ -108,7 +108,16 @@ input, button {
 }
 
 #linkTo {
-    color:rgb(239, 238, 227)
+    color:rgb(66, 236, 9);
+    border: solid rgb(7, 26, 171) .2rem;
+    border-radius: .25rem;
+    margin-right: 2rem;;
+}
+
+#linkToTo {
+    color:rgb(66, 236, 9);
+    border: solid rgb(7, 26, 171) .2rem;
+    border-radius: .25rem;
 }
 
 
