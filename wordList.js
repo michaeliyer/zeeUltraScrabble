@@ -1,3 +1,4 @@
+//  LEAVE IN TACT!!!!!
 export const wordList = [
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
     'ABAMP', 'ABAND', 'ABASE', 'ABASH', 'ABASK', 'ABATE', 'ABAYA', 'ABBAS', 'ABBED', 'ABBES',
@@ -352,8 +353,11 @@ export const wordList = [
     'EXALT', 'EXAMS', 'EXCEL', 'EXEAT', 'EXECS', 'EXEEM', 'EXEME', 'EXERT', 'EXFIL', 'EXIES',
     'EXILE', 'EXINE', 'EXING', 'EXIST', 'EXITS', 'EXODE', 'EXOME', 'EXONS', 'EXPAT', 'EXPEL',
     'EXPOS', 'EXTOL', 'EXTRA', 'EXUDE', 'EXULS', 'EXULT', 'EXURB', 'EYASS', 'EYERS', 'EYING',
-    'EYOTS', 'EYRAS', 'EYRES', 'EYRIE', 'EYRIR', 'EZINE',
-    'FAKIE', 'FAKIR', 'FALAJ', 'FALLS', 'FALSE', 'FAMED', 'FAMES', 'FANAL', 'FANCY', 'FANDS',
+    'EYOTS', 'EYRAS', 'EYRES', 'EYRIE', 'EYRIR', 'EZINE', 'FABLE', 'FACED', 'FACES', 'FACET', 
+    'FACIA', 'FACTA', 'FACTS', 'FADDY', 'FADED', 'FADER', 'FADES', 'FADGE', 'FADOS', 'FAENA', 
+    'FAERY', 'FAGGY', 'FAGIN', 'FAGOT', 'FAILS', 'FAINT', 'FAIRE', 'FAIRS', 'FAIRY', 'FAITH', 
+    'FAKED', 'FAKER', 'FAKES', 'FAKIE', 'FAKIR', 'FALAJ', 'FALLS', 'FALSE', 'FAMED', 'FAMES', 
+    'FANAL', 'FANDS',
     'FANES', 'FANGA', 'FANGO', 'FANGS', 'FANKS', 'FANNY', 'FANON', 'FANOS', 'FANUM', 'FAQIR',
     'FARAD', 'FARCE', 'FARCI', 'FARCY', 'FARDS', 'FARED', 'FARER', 'FARES', 'FARLE', 'FARLS',
     'FARMS', 'FAROS', 'FARRO', 'FARSE', 'FARTS', 'FASCI', 'FASTI', 'FASTS', 'FATAL', 'FATED',
