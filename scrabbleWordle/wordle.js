@@ -7933,6 +7933,18 @@ const oldWords = [
       myScore: 4,
       wordNumber: 1320,
     },
+    {
+      word: "FALSE",
+      gameDate: "1/30/25",
+      myScore: 2,
+      wordNumber: 1321,
+    },
+    {
+      word: "TOAST",
+      gameDate: "1/31/25",
+      myScore: 3,
+      wordNumber: 1322,
+    },
     
   ];
   // prettier-ignore
@@ -7973,7 +7985,7 @@ const oldWords = [
         'EATEN', 'EATER', 'ECLAT', 'EDIFY', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELBOW', 'ELECT',
         'ELEGY', 'ELFIN', 'ELIDE', 'ELITE', 'EMBED', 'EMCEE', 'ENEMY', 
         'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
-        'EXILE', 'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY', 'FALSE', 
+        'EXILE', 'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY',
         'FANNY', 'FATAL', 'FATTY', 'FAUNA', 'FECAL', 'FELLA', 'FELON', 'FEMME', 'FEMUR', 'FENCE',
         'FETAL', 'FETCH', 'FETID', 'FETUS', 'FICUS', 'FIERY', 'FIFTH',
         'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
@@ -8049,7 +8061,7 @@ const oldWords = [
         'SWORN', 'SYNOD', 'TABBY', 'TAFFY', 'TAINT', 'TAKER', 'TAMER',      
         'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
         'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
-        'THRUM', 'TIGHT', 'TIMER', 'TOAST', 'TODDY', 'TOKEN', 'TONAL',
+        'THRUM', 'TIGHT', 'TIMER', 'TODDY', 'TOKEN', 'TONAL',
         'TONER', 'TONGA', 'TOOTH', 'TORUS', 'TOWER', 'TRACK', 'TRAIL',
         'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRIPE', 'TROOP', 'TROUT', 'TRUCE',
         'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
