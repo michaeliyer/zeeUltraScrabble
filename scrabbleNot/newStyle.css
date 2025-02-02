@@ -1,6 +1,6 @@
 .letter-list a {
     text-decoration: underline;
-    color: blue;
+    color: rgb(233, 133, 181);
     margin-right: 10px;
     cursor: pointer;
     }
@@ -12,7 +12,7 @@
     }
     
     body {
-    background-color: rgb(205, 221, 24);
+    background-color: rgb(58, 13, 150);
     }
     
     #letterFrequencyOutput {
