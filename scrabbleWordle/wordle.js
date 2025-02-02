@@ -7951,6 +7951,12 @@ const oldWords = [
       myScore: 4,
       wordNumber: 1323,
     },
+    {
+      word: "CHORE",
+      gameDate: "2/2/25",
+      myScore: 3,
+      wordNumber: 1324,
+    },
     
   ];
   // prettier-ignore

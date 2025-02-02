@@ -10,7 +10,7 @@
   }
   
   body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(49, 4, 4);
     position: relative;
   }
 
@@ -22,7 +22,7 @@
     color: rgb(255, 255, 255);
     border: solid rgb(255, 255, 255) .3rem;
     border-radius: .3rem;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(75, 7, 7);
   }
   
   h2 {
@@ -46,10 +46,13 @@
   }
   
   #instructions {
-    font-family: "Merienda", cursive;
+    /* font-family: "Merienda", cursive;
+    font-style: normal; */
+    font-family: "Passion One", serif;
+    font-weight: 700;
     font-style: normal;
-    background-color: rgb(138, 2, 2);
-    color: rgb(234, 227, 14);
+    background-color: rgb(89, 16, 224);
+    color: rgb(207, 207, 18);
     border: solid rgb(255, 255, 255) .15rem;
     border-radius: .5rem;
     box-shadow: .15rem .08rem;
@@ -249,7 +252,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgb(49, 47, 47);
+    background-color: rgb(79, 4, 4);
   }
  
   #lookupSection {

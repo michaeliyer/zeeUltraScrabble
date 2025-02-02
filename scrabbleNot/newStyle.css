@@ -1,26 +1,26 @@
 .letter-list a {
     text-decoration: underline;
-    color: rgb(233, 133, 181);
+    color: rgb(181, 233, 133);
     margin-right: 10px;
     cursor: pointer;
     }
     
     .highlight {
-    color: rgb(255, 255, 255);
+    color: rgb(25, 153, 121);
     font-style: italic;
     font-weight: bold;
     }
     
     body {
-    background-color: rgb(58, 13, 150);
+    background-color: rgb(21, 82, 14);
     }
     
     #letterFrequencyOutput {
-        color: red;
+        color: rgb(60, 255, 0);
     }
     
     #letterSearchResults {
-        color: rgb(11, 26, 228);
+        color: rgb(143, 180, 10);
     }
 
     #linkBack {
