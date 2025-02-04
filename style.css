@@ -12,13 +12,13 @@ h1, h2 {
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: rgba(5, 9, 83, 0.914);
-    color: rgb(176, 144, 135);
+    background-color: rgba(183, 180, 189, 0.914);
+    color: rgb(65, 110, 51);
     padding: 20px;
 }
 
 #scoreOutput {
-    color: rgb(181, 161, 199);
+    color: rgb(108, 76, 137);
 }
 
 .section {
@@ -32,7 +32,7 @@ body {
     margin-top: 20px;
     font-size: 16px;
     /* color: rgb(237, 76, 6); */
-    color: rgb(113, 109, 172);
+    color: rgb(67, 63, 120);
 }
 
 #output2, #totalScore {
@@ -85,13 +85,13 @@ input, button {
 #wordListOutput
  {
     font-size: 10px;
-    color: rgb(182, 155, 232);
+    color: rgb(91, 46, 176);
 }
 
 
 #vowelUsageOutput,
 #letterFrequencyOutput {
-    color: rgb(197, 175, 218);
+    color: rgb(96, 23, 165);
 }
 
 #letterFrequencyOutput a {
@@ -107,17 +107,36 @@ input, button {
     margin-bottom: 10px;
 }
 
-#linkTo {
-    color:rgb(236, 145, 9);
-    border: solid rgb(7, 26, 171) .2rem;
-    border-radius: .25rem;
-    margin-right: 2rem;;
+.allLinks {
+    height: 3rem;
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-#linkToTo {
-    color:rgb(67, 236, 9);
-    border: solid rgb(7, 26, 171) .2rem;
+#letterLink {
+    color:rgb(236, 145, 9);
+    background-color: rgb(131, 131, 136);
+    border: solid rgb(118, 131, 229) .2rem;
     border-radius: .25rem;
+    margin-right: 2rem;
+}
+
+#wordleLink {
+    color:rgb(67, 236, 9);
+    background-color: rgb(218, 107, 131);
+    border: solid rgb(118, 131, 229) .2rem;
+    border-radius: .25rem;
+    margin-right: 2rem;
+}
+
+#positionLink {
+    color:rgb(140, 131, 220);
+    background-color: rgb(10, 96, 23);
+    border: solid rgb(118, 131, 229) .2rem;
+    border-radius: .25rem;
+
 }
 
 
