@@ -1,18 +1,19 @@
 .letter-list a {
     text-decoration: underline;
-    color: rgb(181, 233, 133);
+    color: rgb(10, 124, 238);
     margin-right: 10px;
     cursor: pointer;
     }
     
     .highlight {
-    color: rgb(25, 153, 121);
+    color: rgb(235, 245, 242);
     font-style: italic;
     font-weight: bold;
     }
     
     body {
-    font-family: "Miltonian Tattoo", serif;
+    /* font-family: "Miltonian Tattoo", serif; */
+    font-family: "Patua One", serif;
     font-weight: 400;
     font-style: normal;
     background-color: rgb(177, 47, 11);

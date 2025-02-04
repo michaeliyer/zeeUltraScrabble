@@ -51,7 +51,7 @@
     font-family: "Passion One", serif;
     font-weight: 700;
     font-style: normal;
-    background-color: rgb(89, 16, 224);
+    background-color: rgb(224, 96, 16);
     color: rgb(207, 207, 18);
     border: solid rgb(255, 255, 255) .15rem;
     border-radius: .5rem;
@@ -329,7 +329,7 @@
   }
 
   #linkBack {
-    border: solid green .1rem;
+    color: solid rgb(236, 225, 16) .1rem;
   }
  
 
