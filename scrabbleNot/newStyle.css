@@ -12,17 +12,24 @@
     }
     
     body {
-    background-color: rgb(21, 82, 14);
+    font-family: "Miltonian Tattoo", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(177, 47, 11);
+    }
+
+    h2 {
+    color: rgb(71, 175, 175);
     }
     
     #letterFrequencyOutput {
-        color: rgb(60, 255, 0);
+    color: rgb(60, 255, 0);
     }
     
     #letterSearchResults {
-        color: rgb(143, 180, 10);
+    color: rgb(143, 180, 10);
     }
 
     #linkBack {
-        color:rgb(255, 255, 255);
+    color:rgb(255, 255, 255);
     }

@@ -18,7 +18,7 @@ body {
 }
 
 #scoreOutput {
-    color: rgb(85, 20, 146);
+    color: rgb(181, 161, 199);
 }
 
 .section {
@@ -85,13 +85,13 @@ input, button {
 #wordListOutput
  {
     font-size: 10px;
-    color: rgb(89, 0, 255);
+    color: rgb(182, 155, 232);
 }
 
 
 #vowelUsageOutput,
 #letterFrequencyOutput {
-    color: rgb(85, 20, 146);
+    color: rgb(197, 175, 218);
 }
 
 #letterFrequencyOutput a {
