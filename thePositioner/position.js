@@ -251,3 +251,5 @@ function displayResults(filteredWords, enteredLetters) {
         statsDiv.innerHTML += `<p>${letter.toUpperCase()}: ${count} times (${percent}%)</p>`;
     });
 }
+
+

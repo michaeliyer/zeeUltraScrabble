@@ -7963,6 +7963,12 @@ const oldWords = [
       myScore: 3,
       wordNumber: 1325,
     },
+    {
+      word: "TOOTH",
+      gameDate: "2/4/25",
+      myScore: 3,
+      wordNumber: 1326,
+    },
     
   ];
   // prettier-ignore
@@ -8080,7 +8086,7 @@ const oldWords = [
         'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
         'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
         'THRUM', 'TIGHT', 'TIMER', 'TODDY', 'TOKEN', 'TONAL',
-        'TONER', 'TONGA', 'TOOTH', 'TORUS', 'TOWER', 'TRACK', 'TRAIL',
+        'TONER', 'TONGA', 'TORUS', 'TOWER', 'TRACK', 'TRAIL',
         'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRIPE', 'TROOP', 'TROUT', 'TRUCE',
         'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
         'TURBO', 'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
@@ -8308,7 +8314,7 @@ const oldWords = [
 
 
  
-  document.getElementById("footerClocks").style.border = "1px solid #ccc"; // Example of targeting the new ID 
+  // document.getElementById("footerClocks").style.border = "1px solid #ccc"; // Example of targeting the new ID 
 // Function to format time in the "HH:MM:SS" format
 function formatTime(date) {
   const hours = date.getHours().toString().padStart(2, "0");
