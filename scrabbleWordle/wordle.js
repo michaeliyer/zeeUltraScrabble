@@ -7969,6 +7969,12 @@ const oldWords = [
       myScore: 3,
       wordNumber: 1326,
     },
+    {
+      word: "PEDAL",
+      gameDate: "2/5/25",
+      myScore: 3,
+      wordNumber: 1327,
+    },
     
   ];
   // prettier-ignore
@@ -8047,7 +8053,7 @@ const oldWords = [
         'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OTTER', 'OUTGO',
         'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'OZONE', 'PADDY', 'PAGAN', 
         'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 'PATCH',
-        'PATSY', 'PAYEE', 'PAYER', 'PECAN', 'PEDAL', 'PENAL', 'PENCE', 'PENNY',
+        'PATSY', 'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
         'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIECE', 'PIGGY', 'PITCH', 'PIVOT', 'PIZZA',
         'PLAID', 'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
         'POESY', 'POLAR', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
