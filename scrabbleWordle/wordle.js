@@ -7975,6 +7975,12 @@ const oldWords = [
       myScore: 3,
       wordNumber: 1327,
     },
+    {
+      word: "PUPIL",
+      gameDate: "2/5/25",
+      myScore: 3,
+      wordNumber: 1327,
+    },
     
   ];
   // prettier-ignore
@@ -8058,7 +8064,7 @@ const oldWords = [
         'PLAID', 'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
         'POESY', 'POLAR', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
         'PRANK', 'PRAWN', 'PREEN', 'PRIED', 'PRISM', 'PRIVY', 
-        'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH', 'PUPIL',
+        'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH', 
         'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK', 'QUAIL', 'QUAKE',
         'QUARK', 'QUASH', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTA', 'QUOTH',
         'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY', 'RAPID',
