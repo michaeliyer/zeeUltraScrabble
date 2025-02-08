@@ -7977,9 +7977,21 @@ const oldWords = [
     },
     {
       word: "PUPIL",
-      gameDate: "2/5/25",
+      gameDate: "2/6/25",
       myScore: 3,
-      wordNumber: 1327,
+      wordNumber: 1328,
+    },
+    {
+      word: "SWATH",
+      gameDate: "2/7/25",
+      myScore: 4,
+      wordNumber: 1329,
+    },
+    {
+      word: "STEEP",
+      gameDate: "2/8/25",
+      myScore: 4,
+      wordNumber: 1330,
     },
     
   ];
@@ -8089,11 +8101,11 @@ const oldWords = [
         'SPASM', 'SPAWN', 'SPEAR', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
         'SPINY', 'SPITE', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 'SPORT',
         'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
-        'STAMP', 'STANK', 'STAVE', 'STEAK', 'STEAL', 'STEEP',
+        'STAMP', 'STANK', 'STAVE', 'STEAK', 'STEAL',
         'STEER', 'STILT', 'STOKE', 'STOOD', 'STOOP', 'STORK', 
         'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUMP', 'STUNK', 'STUNT', 'SUAVE', 'SUING',
         'SUITE', 'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
-        'SWATH', 'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORD', 'SWORE', 
+        'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORD', 'SWORE', 
         'SWORN', 'SYNOD', 'TABBY', 'TAFFY', 'TAINT', 'TAKER', 'TAMER',      
         'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
         'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
