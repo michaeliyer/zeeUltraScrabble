@@ -8005,6 +8005,12 @@ const oldWords = [
       myScore: 5,
       wordNumber: 1332,
     },
+    {
+      word: "SPORT",
+      gameDate: "2/11/25",
+      myScore: 2,
+      wordNumber: 1333,
+    },
     
   ];
   // prettier-ignore
@@ -8111,7 +8117,7 @@ const oldWords = [
         'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
         'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SOUTH', 'SPANK', 'SPARE', 'SPARK',
         'SPASM', 'SPAWN', 'SPEAR', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
-        'SPINY', 'SPITE', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 'SPORT',
+        'SPINY', 'SPITE', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE',
         'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
         'STAMP', 'STANK', 'STAVE', 'STEAK', 'STEAL',
         'STEER', 'STILT', 'STOKE', 'STOOD', 'STOOP', 'STORK', 
