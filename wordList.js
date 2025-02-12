@@ -18,7 +18,7 @@ export const wordList = [
     'AGAVE',
     'AGAZE', 'AGENE', 'AGENT', 'AGERS', 'AGGER', 'AGGIE', 'AGGRO', 'AGGRY', 'AGHAS', 'AGILA',
     'AGILE', 'AGING', 'AGIOS', 'AGISM', 'AGIST', 'AGITA', 'AGLEE', 'AGLET', 'AGLEY', 'AGLOO',
-    'AGLUS', 'AGMAS', 'AGOGE', 'AGONE', 'AGONY', 'AGORA', 'AGREE', 'AGRIA', 'AGRIN',
+    'AGLOW', 'AGLUS', 'AGMAS', 'AGOGE', 'AGONE', 'AGONY', 'AGORA', 'AGREE', 'AGRIA', 'AGRIN',
     'AGROM', 'AGUED', 'AGUES', 'AGUNA', 'AGUTI', 'AHING', 'AHINT', 'AHOLD', 'AHULL', 'AIDAS',
     'AIDED', 'AIDER', 'AIDES', 'AIDOI', 'AIERY', 'AILED', 'AILER', 'AILIE', 'AIMED', 'AIMER',
     'AIMUS', 'AIOLI', 'AIRED', 'AIRER', 'AIRNS', 'AIRTH', 'AIRTS', 'AISLE', 'AITCH', 'AITUS',
