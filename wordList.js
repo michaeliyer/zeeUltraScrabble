@@ -30,7 +30,7 @@ export const wordList = [
     'ALIST', 'ALIVE', 'ALIYA', 'ALKIE', 'ALKOS', 'ALKYD', 'ALKYL', 'ALLEE', 'ALLEY', 'ALLIS',
     'ALLOD', 'ALLOT', 'ALLOW', 'ALLOY', 'ALLYL', 'ALMAH', 'ALMAS', 'ALMEH', 'ALMES', 'ALMUD',
     'ALMUG', 'ALODS', 'ALOED', 'ALOES', 'ALOFT', 'ALOHA', 'ALOIN', 'ALONE', 'ALONG', 'ALOOS',
-    'ALOOF', 'ALOSE', 'ALOWE',
+    'ALOOF', 'ALOSE', 'ALOUD', 'ALOWE',
     'ALPHA', 'ALTAR', 'ALTER', 'ALTHO', 'ALTOS', 'ALULA', 'ALUMS', 'ALURE',
     'ALVAR', 'ALWAY', 'AMAHS', 'AMAIN', 'AMASS', 'AMATE', 'AMAUT', 'AMAZE', 'AMBAN', 'AMBER',
     'AMBIT', 'AMBLE', 'AMBOS', 'AMBRY', 'AMEBA', 'AMEER', 'AMEND', 'AMENE', 'AMENS', 'AMENT',
