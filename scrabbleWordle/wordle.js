@@ -8031,10 +8031,16 @@ const oldWords = [
       wordNumber: 1336,
     },
     {
-      word: "CDROOK",
+      word: "CROOK",
       gameDate: "2/15/25",
       myScore: 3,
       wordNumber: 1337,
+    },
+    {
+      word: "SUAVE",
+      gameDate: "2/16/25",
+      myScore: 6,
+      wordNumber: 1338,
     },
     
   ];
@@ -8146,7 +8152,7 @@ const oldWords = [
         'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
         'STAMP', 'STANK', 'STAVE', 'STEAK', 'STEAL',
         'STEER', 'STILT', 'STOKE', 'STOOD', 'STOOP', 'STORK', 
-        'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUMP', 'STUNK', 'STUNT', 'SUAVE', 'SUING',
+        'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUMP', 'STUNK', 'STUNT', 'SUING',
         'SUITE', 'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
         'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORD', 'SWORE', 
         'SWORN', 'SYNOD', 'TABBY', 'TAFFY', 'TAINT', 'TAKER', 'TAMER',      
