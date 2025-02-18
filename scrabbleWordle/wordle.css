@@ -246,7 +246,7 @@
   
   footer {
     height: 16vh;
-    border: solid rgb(255, 255, 255) .3rem;
+    border: solid rgb(255, 140, 0) .3rem;
     border-radius: .15rem;
     display: flex;
     justify-content: space-evenly;
@@ -257,7 +257,7 @@
   #lookupSection {
     /* font-family: "Poetsen One", cursive;
     position: relative; */
-    color: rgb(255, 255, 255);
+    color: rgb(255, 140, 0);
   }
   
   #wordList { 
@@ -282,13 +282,13 @@
   #wordNumber2,
   #wordNumberInput {
     margin-bottom: .30rem;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 140, 0);
     background-color: rgb(0, 0, 0);
     font-family: "Poetsen One", cursive;
     height: 1.55rem;
-    border: solid rgb(255, 255, 255) .2rem; 
+    border: solid rgb(255, 140, 0) .2rem; 
     box-shadow: .1rem .05rem;
-    border-radius: .15rem;
+    border-radius: .75rem;
     padding: .2rem;
   }
 
@@ -299,7 +299,7 @@
   #wordNumber1,
   #wordNumber2 {
     width: 9rem;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 140, 0);
   }
 
   .numbers,
@@ -311,7 +311,7 @@
 
   #wordDetails,
   #averageScoreResult {
-    color: rgb(255, 255, 255);
+    color: rgb(255, 140, 0);
     font-size: .9rem;
   }
 
@@ -320,7 +320,7 @@
   }
 
   #footerClocks {
-    color: white;
+    color: rgb(255, 140, 0);
     font-family: "Silkscreen", serif;
     font-weight: 400;
     font-style: normal;
