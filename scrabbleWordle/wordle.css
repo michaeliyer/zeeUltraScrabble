@@ -40,20 +40,21 @@
   }
   
   #instructions > h4 {
-     line-height: 2rem;
-     font-size: 1.2rem; 
+     line-height: 2.2rem;
+     font-size: 1.5rem; 
      margin-left: 1.2rem;
   }
   
   #instructions {
     /* font-family: "Merienda", cursive;
     font-style: normal; */
+    font-size: 1.25rem; 
     font-family: "Passion One", serif;
-    font-weight: 700;
+    font-weight: 400;
     font-style: normal;
-    background-color: rgb(224, 96, 16);
+    background-color: rgb(138, 10, 10);
     color: rgb(207, 207, 18);
-    border: solid rgb(255, 255, 255) .15rem;
+    border: solid rgb(207, 207, 18) .15rem;
     border-radius: .5rem;
     box-shadow: .15rem .08rem;
     position: absolute;
