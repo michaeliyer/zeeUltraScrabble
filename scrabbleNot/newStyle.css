@@ -10,6 +10,15 @@
     font-style: italic;
     font-weight: bold;
     }
+
+    #highlightButton {
+        border: solid .2rem rgb(152, 11, 11);
+        background-color: rgb(54, 25, 47);
+        color: rgb(71, 242, 14);
+        font-family: "Miltonian Tattoo", serif;
+        font-style: italic;
+        font-weight: bold;
+    }
     
     body {
     /* font-family: "Miltonian Tattoo", serif; */
@@ -30,8 +39,11 @@
     
     .posInput {
         color: rgb(71, 175, 175);
+        background-color: rgb(54, 25, 47);
+        border: solid .2rem rgb(152, 11, 11);
     }
 
     #linkBack {
-    color:rgb(255, 255, 255);
+        text-decoration: none;
+        color: rgb(71, 175, 175);
     }
