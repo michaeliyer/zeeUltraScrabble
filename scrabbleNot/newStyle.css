@@ -13,6 +13,7 @@
 
     #highlightButton {
         border: solid .2rem rgb(152, 11, 11);
+        border-radius: .5rem;
         background-color: rgb(54, 25, 47);
         color: rgb(71, 242, 14);
         font-family: "Miltonian Tattoo", serif;
@@ -37,10 +38,15 @@
     color: rgb(77, 95, 71);
     }
     
-    .posInput {
-        color: rgb(71, 175, 175);
+    .posInput,
+    #positionInput {
+        color: rgb(71, 242, 14);
         background-color: rgb(54, 25, 47);
         border: solid .2rem rgb(152, 11, 11);
+        border-radius: .5rem;
+        font-family: "Miltonian Tattoo", serif;
+        font-style: italic;
+        font-weight: bold;
     }
 
     #linkBack {
