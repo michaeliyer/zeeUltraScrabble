@@ -333,6 +333,7 @@
     text-decoration: none;
     background-color: rgb(79, 4, 4);
     border: solid rgb(255, 140, 0) .2rem; 
+    border-radius: .75rem;
     padding: .25rem;
     font-size: 1.5rem;
   }
