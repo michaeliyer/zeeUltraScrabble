@@ -8060,6 +8060,12 @@ const oldWords = [
       myScore: 4,
       wordNumber: 1341,
     },
+    {
+      word: "ROACH",
+      gameDate: "2/20/25",
+      myScore: 2,
+      wordNumber: 1342,
+    },
     
   ];
   // prettier-ignore
@@ -8150,7 +8156,7 @@ const oldWords = [
         'RARER', 'RASPY', 'RATTY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
         'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
         'RENAL', 'REPLY', 'RESET', 'REUSE', 'RICER', 'RIFLE', 'RIGID',
-        'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROACH', 'ROAST', 'ROGER',
+        'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
         'ROOST', 'ROTOR', 'ROUGH', 'ROWDY', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
         'SADLY', 'SAFER', 'SALON', 'SALVE', 'SALVO', 'SANER', 'SAPPY', 'SATIN', 'SATYR', 
         'SAUCE', 'SAVOY', 'SAVVY', 'SCALP', 'SCALY', 'SCAMP', 'SCARY', 
