@@ -1,10 +1,8 @@
-
-
-import { wordList } from "../wordList.js"; // Ensure correct import
+import { fixedWordsLarge } from "../theWholeEnchilada.js";
 
 // Debugging check
 console.log("Is position.js running?");
-console.log("Word list loaded:", wordList);
+console.log("Word list loaded:", fixedWordsLarge);
 
 // Ensure DOM is loaded before execution
 document.addEventListener("DOMContentLoaded", () => {
@@ -29,7 +27,7 @@ function filterWords() {
 
     console.log("Entered letters:", enteredLetters); // Debugging
 
-    const filteredWords = wordList.filter(word => {
+    const filteredWords = fixedWordsLarge.filter(word => {
         if (word.length !== 5) return false; // Ensure word is 5 letters
 
         // Only check non-empty letters

@@ -8084,6 +8084,12 @@ const oldWords = [
       myScore: 3,
       wordNumber: 1345,
     },
+    {
+      word: "GLAND",
+      gameDate: "2/24/25",
+      myScore: 5,
+      wordNumber: 1346,
+    },
 
     
   ];
@@ -8134,7 +8140,7 @@ const oldWords = [
         'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRILL', 'FRISK', 'FRITZ', 'FRUIT', 'FUDGE',
         'FUGUE', 'FUROR', 'FURRY', 'FUSSY', 'FUZZY', 'GABLE', 'GAFFE', 'GAILY',
         'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 'GEESE', 'GENIE', 'GHOST',
-        'GIPSY', 'GIRLY', 'GIVER', 'GLADE', 'GLAND', 'GLARE', 'GLINT', 'GLOSS', 'GNOME',
+        'GIPSY', 'GIRLY', 'GIVER', 'GLADE', 'GLARE', 'GLINT', 'GLOSS', 'GNOME',
         'GODLY', 'GOLLY', 'GONAD', 'GOOEY', 'GOURD', 'GRAFT', 
         'GRAPE', 'GRASS', 'GRAVE', 'GRAVY', 'GRAZE', 'GREED', 'GRILL', 'GROAN',
         'GROPE', 'GROSS', 'GROWN', 'GRUFF', 'GRUNT', 'GUAVA', 'GUESS', 'GUILT',
@@ -8216,7 +8222,10 @@ const oldWords = [
         'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 'YEAST',
         'ZONAL'
       ];
-    
+
+
+
+
   let filteredWords = [...newWords];
   let history = [];
   
