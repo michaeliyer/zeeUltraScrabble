@@ -22,14 +22,14 @@
     color: rgb(255, 255, 255);
     border: solid rgb(255, 255, 255) .3rem;
     border-radius: .3rem;
-    background-color: rgb(75, 7, 7);
+    background-color: rgb(138, 10, 10);
   }
   
   h2 {
     font-family: "Merienda", cursive;
     font-size: 1.75rem;
-    border: solid rgb(255, 255, 255) .2rem;
-    box-shadow: .1rem .05rem;
+    border: solid rgb(255, 255, 255) .1rem;
+    /* box-shadow: .1rem .05rem; */
     border-radius: .4rem;
     padding: .3rem;
   }
@@ -56,7 +56,7 @@
     color: rgb(207, 207, 18);
     border: solid rgb(207, 207, 18) .15rem;
     border-radius: .5rem;
-    box-shadow: .15rem .08rem;
+    box-shadow: .05rem .15rem;
     position: absolute;
     z-index: 20;
     top: 10rem;
@@ -252,7 +252,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgb(79, 4, 4);
+    background-color: rgb(138, 10, 10);
   }
  
   #lookupSection {
