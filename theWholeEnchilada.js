@@ -1347,7 +1347,7 @@ export const dailyWordsSmall = [
     'DIODE', 'DIRGE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
     'DOGMA', 'DOPEY', 'DOUGH', 'DOWDY', 'DOWEL', 'DOWNY', 'DRAKE', 'DRAMA',
     'DRANK', 'DRAPE', 'DRAWL', 'DREAD', 'DRESS', 'DRIED', 'DRIER', 'DRIFT', 'DRILL',
-    'DROIT', 'DRONE', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYER', 'DRYLY',
+    'DROIT', 'DRONE', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
     'DULLY', 'DUMMY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING', 'EAGER',  
     'EATEN', 'EATER', 'ECLAT', 'EDIFY', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELBOW', 'ELECT',
     'ELEGY', 'ELFIN', 'ELIDE', 'ELITE', 'EMBED', 'EMCEE', 'ENEMY', 
@@ -1757,7 +1757,7 @@ export const dailyWordsLarge = [
     'DRIPS', 'DRIPT', 'DROID', 'DROIL', 'DROIT', 'DROKE', 'DROLE', 'DROME',
     'DRONE', 'DRONY', 'DROOB', 'DROOG', 'DROOK', 'DROPS', 'DROPT', 'DROSS', 
     'DROUK', 'DROWN', 'DROWS', 'DRUBS', 'DRUGS', 'DRUID', 'DRUMS', 'DRUNK', 'DRUPE', 
-    'DRUSE', 'DRUSY', 'DRUXY', 'DRYAD', 'DRYAS', 'DRYER', 'DRYLY', 'DSOBO', 'DSOMO', 'DUADS', 
+    'DRUSE', 'DRUSY', 'DRUXY', 'DRYAD', 'DRYAS', 'DRYLY', 'DSOBO', 'DSOMO', 'DUADS', 
     'DUALS', 'DUANS', 'DUARS', 'DUBBO', 'DUCAL', 'DUCAT', 'DUCES',
     'DUCHY', 'DUCKS', 'DUCKY', 'DUCTS', 'DUDDY', 'DUDED', 'DUDES', 'DUELS', 'DUETS', 'DUETT',
     'DUFFS', 'DUFUS', 'DUING', 'DUITS', 'DUKAS', 'DUKED', 'DUKES', 'DUKKA', 'DULCE', 'DULES',
@@ -2751,14 +2751,6 @@ export const dailyWordsLarge = [
     'ZOOEY', 'ZOOID', 'ZOOKS', 'ZOOMS', 'ZOONS', 'ZOOTY', 'ZOPPA', 'ZOPPO', 'ZORIL', 'ZORIS',
     'ZORRO', 'ZOUKS', 'ZOWEE', 'ZOWIE', 'ZULUS', 'ZUPAN', 'ZUPAS', 'ZUPPA', 'ZURFS', 'ZUZIM',
     'ZYGAL', 'ZYGON', 'ZYMES', 'ZYMIC'];
-
-
-
-export const letterValues = {
-      A: 1, B: 3, C: 3, D: 2, E: 1, F: 4, G: 2, H: 4, I: 1,
-      J: 8, K: 5, L: 1, M: 3, N: 1, O: 1, P: 3, Q: 10, R: 1,
-      S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
-  };
 
 export const wordleWords = [
 
@@ -10847,10 +10839,20 @@ export const wordleWords = [
         myScore: 5,
         wordNumber: 1346,
       },
+     {
+        word: "DRYER",
+        gameDate: "2/25/25",
+        myScore: 5,
+        wordNumber: 1347,
+      },
   
   ];
 
-
+export const letterValues = {
+    A: 1, B: 3, C: 3, D: 2, E: 1, F: 4, G: 2, H: 4, I: 1,
+    J: 8, K: 5, L: 1, M: 3, N: 1, O: 1, P: 3, Q: 10, R: 1,
+    S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
+};
 console.log("this works great");
 
 
