@@ -1,14 +1,11 @@
-import { wordList } from './wordList.js';
 
-const letterValues = {
-    A: 1, B: 3, C: 3, D: 2, E: 1, F: 4, G: 2, H: 4, I: 1,
-    J: 8, K: 5, L: 1, M: 3, N: 1, O: 1, P: 3, Q: 10, R: 1,
-    S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
-};
+import { fixedWordsLarge, letterValues  } from './theWholeEnchilada.js';
+
+
 
 // Filter words by prefix
 function filterWordsByPrefix(prefix) {
-    return wordList.filter(word => word.startsWith(prefix.toUpperCase()));
+    return fixedWordsLarge.filter(word => word.startsWith(prefix.toUpperCase()));
 }
 
 // Display filtered words and word count
@@ -60,7 +57,7 @@ function calculateScore() {
 
 
 
-    if (!wordList.includes(input)) {
+    if (!fixedWordsLarge.includes(input)) {
         totalScoreEl.innerText = "That's not a valid word!";
         return;
     }
@@ -137,7 +134,7 @@ function getScoreMessage(totalScore) {
 
 // Filter words by Scrabble score
 function filterWordsByScore(score) {
-    const wordsWithScore = wordList.filter(word => {
+    const wordsWithScore = fixedWordsLarge.filter(word => {
         let totalScore = 0;
         for (let char of word) {
             if (letterValues[char.toUpperCase()]) {
@@ -180,7 +177,7 @@ function analyzeVowelUsage() {
         vowelStats[vowel] = { count: 0, positions: [0, 0, 0, 0, 0] };
     });
 
-    wordList.forEach(word => {
+    fixedWordsLarge.forEach(word => {
         [...word.toUpperCase()].forEach((char, index) => {
             if (vowels.includes(char)) {
                 vowelStats[char].count++;
@@ -210,7 +207,7 @@ function analyzeLetterFrequency() {
     const positionTotals = [0, 0, 0, 0, 0]; // Tracks the number of words with each position available
 
     // Loop through each word in the word list
-    wordList.forEach((word) => {
+    fixedWordsLarge.forEach((word) => {
         [...word.toUpperCase()].forEach((letter, index) => {
             // Increment position availability
             if (index < 5) positionTotals[index]++;
@@ -304,7 +301,7 @@ window.addEventListener('DOMContentLoaded', () => {
 // Filter words by letter and position
 function filterWordsByLetterAndPosition(letter, position) {
     const positionIndex = position - 1; // Convert position to zero-based index
-    return wordList.filter(word => word[positionIndex] === letter.toUpperCase());
+    return fixedWordsLarge.filter(word => word[positionIndex] === letter.toUpperCase());
 }
 
 // Display filtered words and their count based on letter and position
@@ -336,7 +333,7 @@ function displayWordsByLetterAndPosition() {
 document.getElementById("filterByLetterAndPosition").addEventListener("click", displayWordsByLetterAndPosition);
 
 
-console.log(wordList);
+console.log(fixedWordsLarge);
 
 
 document.getElementById("footerClocks").style.border = "1px solid #ccc"; // Example of targeting the new ID 
@@ -392,11 +389,6 @@ function updateFooter() {
 // Start the clock
 setInterval(updateFooter, 1000);
 updateFooter(); // Initial call
-
-
-
-
-
 
 
 
