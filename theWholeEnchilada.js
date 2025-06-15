@@ -1881,7 +1881,7 @@ export const dailyWordsLarge = [
     'GENOA', 'GENOM', 'GENRO', 'GENTS', 'GENTY', 'GENUA', 'GENUS', 'GEODE', 'GEOID',
     'GERAH', 'GERBE', 'GERES', 'GERLE', 'GERMS', 'GERMY', 'GERNE', 'GESSE', 'GESSO', 'GESTE',
     'GESTS', 'GETAS', 'GETUP', 'GEUMS', 'GEYAN', 'GEYER', 'GHAST', 'GHATS', 'GHAUT', 'GHAZI',
-    'GHEES', 'GHEST', 'GHOST', 'GHYLL',
+    'GHEES', 'GHEST', 'GHYLL',
     'GIBED', 'GIBEL', 'GIBER', 'GIBES', 'GIBLI', 'GIBUS', 'GIFTS', 'GIGAS',
     'GIGHE', 'GIGOT', 'GIGUE', 'GILAS', 'GILDS', 'GILET', 'GILLS', 'GILLY', 'GILPY', 'GILTS',
     'GIMEL', 'GIMME', 'GIMPS', 'GIMPY', 'GINCH', 'GINGE', 'GINGS', 'GINKS', 'GINNY', 'GIPON',
