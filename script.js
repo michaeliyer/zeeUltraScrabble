@@ -383,7 +383,7 @@ function updateFooter() {
   )}`;
 
   // Update countdown to midnight
-  document.getElementById("countdownToMidnight").textContent = `Countdown to Midnight: ${getTimeUntilMidnightEastern()}`;
+  document.getElementById("countdownToMidnight").textContent = `Countdown to, er, Midnight: ${getTimeUntilMidnightEastern()}`;
 }
 
 // Start the clock
