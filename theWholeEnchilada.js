@@ -13281,7 +13281,7 @@ function logOverallAverageScore() {
   const totalScore = playedWords.reduce((sum, word) => sum + word.myScore, 0);
   const averageScore = totalScore / playedWords.length;
 
-  console.log(`Overall average score (excluding unplayed words): ${averageScore.toFixed(8)}. Happy?`);
+  console.log(`Overall average score (excluding unplayed words): ${averageScore.toFixed(8)}. Happy?`); 
 }
 
 logOverallAverageScore();
