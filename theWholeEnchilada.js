@@ -1,4 +1,4 @@
-
+ 
 export const fixedWordsLarge = [
     'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX',   
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
@@ -1636,7 +1636,7 @@ export const dailyWordsSmall = [
 'COACH', 'COAST', 'COBRA', 'COCOA', 'COLON', 'COLOR', 'COMFY', 'COMIC', 'COMMA',
 'CONCH', 'CONDO', 'CONIC', 'COPSE', 'CORAL', 'CORER', 'CORNY', 'COUGH', 'COULD',
 'COUNT', 'COUPE', 'COURT', 'COVEN', 'COVER', 'COVET', 'COVEY', 'COWER', 'COYLY', 'CRACK',
-'CRAFT', 'CRAMP', 'CRANE', 'CRANK', 'CRASH', 'CRASS', 'CRATE', 'CRAVE', 'CRAWL', 'CRAZE',
+'CRAFT', 'CRAMP', 'CRANE', 'CRANK', 'CRASS', 'CRATE', 'CRAVE', 'CRAWL', 'CRAZE',
 'CRAZY', 'CREAK', 'CREAM', 'CREDO', 'CREEK', 'CREEP', 'CREME', 'CREPE', 'CREPT',
 'CRESS', 'CREST', 'CRICK', 'CRIED', 'CRIER', 'CRIME', 'CRIMP', 'CRISP', 'CROAK', 'CROCK',
 'CRONE', 'CRONY', 'CROOK', 'CROSS', 'CROUP', 'CROWD', 'CROWN', 'CRUEL', 'CRUMB',
@@ -1828,7 +1828,7 @@ export const dailyWordsSmall = [
 'WATCH', 'WATER', 'WAXEN', 'WEARY', 'WEDGE', 'WEEDY', 'WEIRD',
 'WELCH', 'WELSH', 'WHACK', 'WHALE', 'WHEAT', 'WHEEL', 'WHELP', 'WHERE', 'WHICH',
 'WHIFF', 'WHILE', 'WHINE', 'WHINY', 'WHIRL', 'WHISK', 'WHITE', 'WHOLE', 'WHOOP', 'WHOSE',
-'WIDEN', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT', 'WILLY', 'WIMPY', 'WINCE', 'WINCH',
+'WIDEN', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT', 'WILLY', 'WINCE', 'WINCH',
 'WINDY', 'WISPY', 'WITCH', 'WITTY', 'WOKEN', 'WOMAN', 'WOODY', 'WOOER',
 'WOOLY', 'WOOZY', 'WORDY', 'WORLD', 'WORRY', 'WORSE', 'WORST', 'WORTH', 'WOULD', 'WOUND',
 'WOVEN', 'WRACK', 'WRATH', 'WREAK', 'WREST', 'WRING', 'WRIST', 'WRITE', 'WRONG',
@@ -2078,7 +2078,7 @@ export const dailyWordsLarge = [
     'COXES', 'COXIB', 'COYAU', 'COYED', 'COYER', 'COYLY', 'COYPU', 'COZED', 'COZEN', 'COZES',
     'COZEY', 'COZIE',
     'CRAAL', 'CRABS', 'CRACK', 'CRAFT', 'CRAGS', 'CRAIC', 'CRAIG', 'CRAKE', 'CRAME', 'CRAMP',
-    'CRAMS', 'CRANE', 'CRANK', 'CRANS', 'CRAPE', 'CRAPS', 'CRAPY', 'CRARE', 'CRASH', 'CRASS',
+    'CRAMS', 'CRANE', 'CRANK', 'CRANS', 'CRAPE', 'CRAPS', 'CRAPY', 'CRARE', 'CRASS',
     'CRATE', 'CRAVE', 'CRAWL', 'CRAWS', 'CRAYS', 'CRAZE', 'CRAZY', 'CREAK', 'CREAM', 'CREDO',
     'CREDS', 'CREEK', 'CREEL', 'CREEP', 'CREES', 'CREME', 'CREMS', 'CRENA', 'CREPE',
     'CREPS', 'CREPT', 'CREPY', 'CRESS', 'CREST', 'CREWE', 'CREWS', 'CRIAS', 'CRIBS', 'CRICK',
@@ -3103,7 +3103,7 @@ export const dailyWordsLarge = [
     'WHOSO', 'WHOWS', 'WHUMP', 'WHUPS', 'WHYDA', 'WICCA', 'WICKS', 'WICKY', 'WIDDY', 'WIDEN',
     'WIDER', 'WIDES', 'WIDOW', 'WIDTH', 'WIELD', 'WIELS', 'WIFED', 'WIFES', 'WIFEY', 'WIFIE',
     'WIFTY', 'WIGAN', 'WIGGY', 'WIGHT', 'WIKIS', 'WILCO', 'WILDS', 'WILED', 'WILES', 'WILGA',
-    'WILIS', 'WILJA', 'WILLS', 'WILLY', 'WILTS', 'WIMPS', 'WIMPY', 'WINCE', 'WINCH', 'WINDS',
+    'WILIS', 'WILJA', 'WILLS', 'WILLY', 'WILTS', 'WIMPS', 'WINCE', 'WINCH', 'WINDS',
     'WINDY', 'WINED', 'WINES', 'WINEY', 'WINGE', 'WINGS', 'WINGY', 'WINKS', 'WINNA', 'WINNS',
     'WINOS', 'WINZE', 'WIPED', 'WIPER', 'WIPES', 'WIRED', 'WIRER', 'WIRES', 'WIRRA', 'WISED',
     'WISES', 'WISHA', 'WISHT', 'WISPS', 'WISPY', 'WISTS', 'WITAN', 'WITCH', 'WITED',
@@ -25365,6 +25365,28 @@ export const wordleWords = [
         guess_5: null,
         guess_6: null,
       }, 
+      { word: "WIMPY", 
+        gameDate: "8/12/26",
+        myScore: 4,
+        wordNumber: 1880,
+        guess_1: "LEANT",
+        guess_2: "CROUP",
+        guess_3: "PYGMY",
+        guess_4: "WIMPY",
+        guess_5: null,
+        guess_6: null,
+      }, 
+      { word: "CRASH", 
+        gameDate: "8/13/26",
+        myScore: 2,
+        wordNumber: 1881,
+        guess_1: "LEANT",
+        guess_2: "CRASH",,
+        guess_3: null,
+        guess_4: null,
+        guess_5: null,
+        guess_6: null,
+      }, 
       
 
  
@@ -25384,7 +25406,7 @@ console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
 console.log("August 9, 2025, Mom: Hello, Again!" )
-console.log("August 11, 2026: Trump sux dykk000000000! FENCE")
+console.log("August 13, 2026: Trump sux dykk000000000! CRASH")
 
 console.log(wordleWords)
 
