@@ -390,5 +390,5 @@ function updateFooter() {
 setInterval(updateFooter, 1000);
 updateFooter(); // Initial call
 
-
+console.log("Fuck Thou, Chippo!")
 
