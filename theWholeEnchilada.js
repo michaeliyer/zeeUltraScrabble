@@ -1657,7 +1657,7 @@ export const dailyWordsSmall = [
 'CRONE', 'CRONY', 'CROOK', 'CROSS', 'CROUP', 'CROWD', 'CROWN', 'CRUEL', 'CRUMB',
 'CRUMP', 'CRUSH', 'CRUST', 'CRYPT', 'CUBIC', 'CUMIN', 'CURIO', 'CURLY', 'CURSE',
 'CURVE', 'CURVY', 'CUTIE', 'CYBER', 'CYNIC', 'DADDY', 'DAILY', 'DAIRY', 'DAISY',
-'DALLY', 'DANCE', 'DANDY', 'DATUM', 'DAUNT', 'DEALT', 'DEARY', 'DEATH', 'DEBAR', 'DEBIT', 
+'DALLY', 'DANCE', 'DANDY', 'DATUM', 'DAUNT', 'DEARY', 'DEATH', 'DEBAR', 'DEBIT', 
 'DEBUG',
 'DEBUT', 'DECAL', 'DECAY', 'DECOR', 'DECOY', 'DECRY', 'DEFER', 'DEIGN', 'DEITY', 'DELAY',
 'DELTA', 'DELVE', 'DENIM', 'DEPOT', 'DEPTH', 'DERBY', 'DETER',
@@ -1771,7 +1771,7 @@ export const dailyWordsSmall = [
 'RECUR', 'RECUT', 'REEDY', 'REFER', 'REFIT', 'REGAL', 'REIGN', 'RELAX', 'RELAY',
 'RELIC', 'REMIT', 'RENAL', 'RENEW', 'REPAY', 'REPEL', 'RERUN', 'RESET', 'RESIN',
 'RETCH', 'RETRO', 'RETRY', 'REUSE', 'REVEL', 'REVUE', 'RHINO', 'RHYME', 'RICER', 'RIDER',
-'RIDGE', 'RIFLE', 'RIGHT', 'RIGID', 'RIGOR', 'RINSE', 'RIPEN', 'RIPER', 'RISEN',
+'RIDGE', 'RIFLE', 'RIGHT', 'RIGID', 'RIGOR', 'RIPEN', 'RIPER', 'RISEN',
 'RISKY', 'RIVAL', 'RIVER', 'RIVET', 'ROACH', 'ROAST', 'ROBIN', 'ROBOT', 'ROCKY', 'RODEO',
 'ROGER', 'ROGUE', 'ROOMY', 'ROTOR', 'ROUGE', 'ROUGH', 'ROUND', 'ROUSE', 'ROUST', 'ROUTE',
 'ROVER', 'ROWDY', 'ROWER', 'ROYAL', 'RUDDY', 'RUDER', 'RUGBY', 'RUMBA', 'RUMOR',
@@ -2123,7 +2123,7 @@ export const dailyWordsLarge = [
     'DATED', 'DATER', 'DATES', 'DATOS', 'DATTO', 'DATUM', 'DAUBE', 'DAUBS', 'DAUBY', 'DAUDS',
     'DAULT', 'DAUNT', 'DAURS', 'DAUTS', 'DAVEN', 'DAVIT', 'DAWAH', 'DAWDS', 'DAWED', 'DAWEN',
     'DAWKS', 'DAWNS', 'DAWTS', 'DAYAN', 'DAYCH', 'DAYNT', 'DAZED', 'DAZER', 'DAZES',
-    'DEADS', 'DEAIR', 'DEALS', 'DEALT', 'DEANS', 'DEARE', 'DEARN', 'DEARS', 'DEARY', 'DEASH',
+    'DEADS', 'DEAIR', 'DEALS', 'DEANS', 'DEARE', 'DEARN', 'DEARS', 'DEARY', 'DEASH',
     'DEATH', 'DEAVE', 'DEAWS', 'DEAWY', 'DEBAG', 'DEBAR', 'DEBBY', 'DEBEL', 'DEBES', 'DEBIT',
     'DEBTS', 'DEBUD', 'DEBUG', 'DEBUR', 'DEBUS', 'DEBUT', 'DEBYE', 'DECAD', 'DECAF', 'DECAL',
     'DECAN', 'DECAY', 'DECKO', 'DECKS', 'DECOR', 'DECOS', 'DECOY', 'DECRY', 'DEDAL', 'DEEDS',
@@ -2785,7 +2785,7 @@ export const dailyWordsLarge = [
     'RIDGE', 'RIDGY', 'RIDIC', 'RIELS', 'RIEMS', 'RIEVE', 'RIFER', 'RIFFS', 'RIFLE', 'RIFTE',
     'RIFTS', 'RIFTY', 'RIGGS', 'RIGHT', 'RIGID', 'RIGOL', 'RIGOR', 'RILED', 'RILES', 'RILEY',
     'RILLE', 'RILLS', 'RIMAE', 'RIMED', 'RIMER', 'RIMES', 'RIMUS', 'RINDS', 'RINDY', 'RINES',
-    'RINGS', 'RINKS', 'RINSE', 'RIOJA', 'RIOTS', 'RIPED', 'RIPEN', 'RIPER', 'RIPES', 'RIPPS',
+    'RINGS', 'RINKS', 'RIOJA', 'RIOTS', 'RIPED', 'RIPEN', 'RIPER', 'RIPES', 'RIPPS',
     'RISEN', 'RISES', 'RISHI', 'RISKS', 'RISKY', 'RISPS', 'RISUS', 'RITES', 'RITTS',
     'RITZY', 'RIVAL', 'RIVAS', 'RIVED', 'RIVEL', 'RIVEN', 'RIVER', 'RIVES', 'RIVET', 'RIYAL',
     'RIZAS', 'ROACH', 'ROADS', 'ROAMS', 'ROANS', 'ROARS', 'ROARY', 'ROAST', 'ROATE', 'ROBED',
@@ -25743,6 +25743,28 @@ export const wordleWords = [
         guess_4: null,
         guess_5: null,
         guess_6: null,
+      },
+      { word: "RINSE", 
+        gameDate: "9/14/26",
+        myScore: 2,
+        wordNumber: 1913,
+        guess_1: "LEANT",
+        guess_2: "RINSE",
+        guess_3: null,
+        guess_4: null,
+        guess_5: null,
+        guess_6: null,
+      },
+      { word: "DEALT", 
+        gameDate: "9/15/26",
+        myScore: 2,
+        wordNumber: 1914,
+        guess_1: "LEANT",
+        guess_2: "DEALT",
+        guess_3: null,
+        guess_4: null,
+        guess_5: null,
+        guess_6: null,
       }
 
 
@@ -25763,7 +25785,7 @@ console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
 console.log("August 9, 2025, Mom: Hello, Again!" )
-console.log("September 13, 2026: Trump sux dykk000000000! FOCUS")
+console.log("September 15, 2026: Trump sux dykk000000000! DEALT")
 
 console.log(wordleWords)
 
