@@ -126,7 +126,7 @@ function getScoreMessage(totalScore) {
     if (totalScore === 27) return "If you are a 27 point scorer, most people know it’s bunch of bullshit. I agree with them.";
     if (totalScore === 28) return "You gonna get beaten down, essay! 28? You trying to keep us down, make us look uneducated!";
     if (totalScore === 29) return "You're dead to me, fuckface. 29 is next to impossible. You're ruined around here.";
-    if (totalScore === 30) return "You will be reported for this score of 30 if you don't fuck off right this moment, GAFFE!!!!";
+    if (totalScore === 30) return "You will be reported for this score of 30 if you don't fuck off right this moment, ADORN!!!!";
     return "Consider the authorities called. You need to hide out, bitch-ass!";
 }
 
